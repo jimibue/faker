@@ -15,7 +15,7 @@ module Faker
       def name
         fetch('app.name')
       end
-
+fasdfasdf
       ##
       # Produces a version string.
       #

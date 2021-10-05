@@ -17,6 +17,7 @@ module Faker
       def type
         fetch('blood.type')
       end
+      asdfasdf
 
       ##
       # Produces a random blood RH-Factor.
